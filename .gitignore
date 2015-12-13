@@ -1,3 +1,11 @@
+# github ssh keys
+id_rsa
+id_rsa.pub
+known_hosts
+
+# Vagrant stuff
+.vagrant
+
 # Compiled Object files
 *.slo
 *.lo
